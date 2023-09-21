@@ -1,2 +1,2 @@
-# Aprendendo_a_programar_python2023
- Learning-Python
+# aprendendo_python_2023
+ Começando do zero!
