@@ -1,12 +1,4 @@
-""" Calculadora com while """
-# while True:
-#     sair = input('Quer sair? [s]im: ')
-#     sair = sair.lower() # converte para minusculo
-#     sair = sair.startswith('s')  # checa se começa com a letra s
-#     # termina com uma letra .endswith
-#     print(sair)
-
-#RESUMO do código acima
+# Calculadora Python (básica)
 
 while True:
     numero_1 = input('Digite um número: ')
@@ -23,8 +15,7 @@ while True:
         numeros_validos = True
     except:
         numeros_validos = None
-    #except Exception as error:
-        #print(error)
+
     if numeros_validos is None:
         print('um ou ambos os números digitados são inválidos. ')
         continue
@@ -47,8 +38,6 @@ while True:
         print(f'{num_1_float}*{num_2_float}=', num_1_float * num_2_float)
     else:
         print('Nunca deveria chegar aqui.')
-
-
 
 
     sair = input('Quer sair? [s]im: ').lower().startswith('s')
