@@ -1,4 +1,7 @@
 # Calculadora Python (básica)
+# Modelo de calculadora python
+# Calculadora Python 
+# Como fazer uma calculadora no python
 
 while True:
     numero_1 = input('Digite um número: ')
