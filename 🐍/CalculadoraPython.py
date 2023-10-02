@@ -18,7 +18,8 @@ while True:
         numeros_validos = True
     except:
         numeros_validos = None
-
+    #except Exception as error:
+        #print(error)
     if numeros_validos is None:
         print('um ou ambos os números digitados são inválidos. ')
         continue
@@ -32,15 +33,17 @@ while True:
 
     print('Realizando sua conta, confira o resultado a baixo v ')
     if operador == '+':
-        print(f'{num_1_float}+{num_2_float}=', num_1_float + num_2_float)
+        print(f'{num_1_float} + {num_2_float} =', num_1_float + num_2_float)
     elif operador == '-':
-        print(f'{num_1_float}-{num_2_float}=', num_1_float - num_2_float)
+        print(f'{num_1_float} - {num_2_float} =', num_1_float - num_2_float)
     elif operador == '/':
-        print(f'{num_1_float}/{num_2_float}=', num_1_float / num_2_float)
+        print(f'{num_1_float} / {num_2_float} =', num_1_float / num_2_float)
     elif operador == '*':
-        print(f'{num_1_float}*{num_2_float}=', num_1_float * num_2_float)
+        print(f'{num_1_float} * {num_2_float} =', num_1_float * num_2_float)
     else:
         print('Nunca deveria chegar aqui.')
+
+
 
 
     sair = input('Quer sair? [s]im: ').lower().startswith('s')
