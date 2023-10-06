@@ -6,7 +6,7 @@
 while True:
     numero_1 = input('Digite um número: ')
     numero_2 = input('Digite um número: ')
-    operador = input('digite o operador (+-/*) ')
+    operador = input('digite o operador ( + - / * ) ')
 
     numeros_validos = None
     num_1_float = 0
