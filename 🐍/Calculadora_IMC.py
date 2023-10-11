@@ -1,10 +1,11 @@
 # Substitua e calcule
 # Fill in and cacule
 
+
 # Calculadora de IMC - 1
-nome ='xxxxx'
-altura = 1111
-peso = 1111
+nome ='xxxxx' # coloque o seu nome
+altura = 1111 # coloque a sua altura
+peso = 1111   # coloque o seu peso
 imc = peso / (altura)**2
 print(nome,"tem", altura,'de altura','pesa', peso, 'quilos e seu IMC é', imc)
 
