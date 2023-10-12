@@ -1,3 +1,36 @@
 Controle de revisão:
 #sem energia,
+
 #revisar na parte da manhã.
+
+|-----------------|-------------------|-----------------------------------|
+|   Dia da Semana|   Horário          |   Atividade                       |
+|-----------------|-------------------|-----------------------------------|
+|   Domingo       |   8:00 - 9:30     |   Estudo                           |
+|                 |   9:30 - 9:45     |   Pausa curta (15 minutos)         |
+|                 |   9:45 - 11:15    |   Estudo                           |
+|                 |   11:15 - 11:30   |   Pausa curta (15 minutos)         |
+|                 |   11:30 - 13:00   |   Estudo                           |
+|                 |   13:00 - 14:00   |   Almoço (1 hora)                  |
+|                 |   14:00 - 15:30   |   Estudo                           |
+|                 |   15:30 - 15:45   |   Pausa curta (15 minutos)         |
+|                 |   15:45 - 17:15   |   Estudo                           |
+|                 |   17:15 - 17:30   |   Pausa curta (15 minutos)         |
+|                 |   17:30 - 19:00   |   Estudo                           |
+|                 |   19:00 - 20:00   |   Jantar (1 hora)                  |
+|                 |   20:00 - 21:30   |   Estudo                           |
+|-----------------|-------------------|-----------------------------------|
+|   Segunda a Sexta|   6:00 - 7:30     |   Estudo matinal                   |
+|                 |   7:30 - 8:00     |   Café da manhã e preparação para o trabalho (30 minutos) |
+|                 |   11:00 - 12:30   |   Estudo após o trabalho           |
+|                 |   12:30 - 13:30   |   Almoço (1 hora)                  |
+|                 |   13:30 - 15:00   |   Estudo                           |
+|                 |   15:00 - 15:15   |   Pausa curta (15 minutos)         |
+|                 |   15:15 - 16:45   |   Estudo                           |
+|                 |   16:45 - 17:00   |   Pausa curta (15 minutos)         |
+|                 |   17:00 - 18:30   |   Estudo                           |
+|                 |   18:30 - 19:30   |   Jantar (1 hora)                  |
+|                 |   19:30 - 21:00   |   Estudo da noite                  |
+|-----------------|-------------------|-----------------------------------|
+|   Sábado        |   Ajuste conforme necessário |   Estudo, revisão ou dia de folga  |
+|-----------------|-------------------|-----------------------------------|
