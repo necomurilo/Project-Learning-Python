@@ -3,4 +3,3 @@ print(1, 2, sep="/", end= "\n")
 print(1, 100, sep="-", end= "\n")
 # CRLF = quebra de linha /r/n padrão do windowns
 # LF = /n linux unix 
-

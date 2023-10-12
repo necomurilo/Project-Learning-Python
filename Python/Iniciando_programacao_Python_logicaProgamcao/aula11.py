@@ -11,5 +11,3 @@ print(conta_2)
 
 conta_3 = (1 + int(0.5 + 0.5)) ** (5 + 5) # coloquei int para mudar o número flutuante para inteiro.
 print(conta_3)
-
-
