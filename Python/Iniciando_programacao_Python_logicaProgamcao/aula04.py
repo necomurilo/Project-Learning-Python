@@ -1,7 +1,11 @@
 # Tipos int e float
+
 # int -> Número inteiro
+
 # O tipo int representa qualquer número
+
 #positivo ou negativo. int sem sinal é considerado positivo
+
 # print(11) # int
 # print(-11) # int
 # print(0) 
@@ -12,6 +16,7 @@
 # Float -> Número com ponto flutuante
 # O tipo float representa qualquer número
 # Positivo ou negativo com ponto flutuante float sem sinal é considerado positivo
+
 # print(1.5, -1.25) # decimal
 
 # A funçào type mostra o tipo que o Python
