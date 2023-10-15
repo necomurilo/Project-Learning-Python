@@ -1,7 +1,7 @@
-nome = 'Murilo'
+nome = 'Dezran'
 sobrenome = 'Neco'
-idade = int(28)
-ano_nascimento = 2023 - idade # desse as vezes da aprox. o que utilizei foi ano_nascimento = int(1994)
+idade = int(128)
+ano_nascimento = 2023 - idade # As vezes não sai o valor correto (erro de até 1 ano)
 maior_de_idade = idade >= 18
 altura_metros = float(1.96)
 
