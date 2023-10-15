@@ -1,6 +1,9 @@
-nome = 'Murilo Lima Neco'
-altura = 1.96
-peso = 102
+# Outra calculadora de IMC
+# Correção do professor 
+
+nome = 'Celice Keifu'
+altura = 1.86
+peso = 88
 imc = peso / (altura)**2
 
 
