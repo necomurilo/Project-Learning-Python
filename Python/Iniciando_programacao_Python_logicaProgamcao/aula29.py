@@ -18,9 +18,6 @@ try:
 except:
     print('Isso não é um número')
 
-
-
-
 #if numero_str.isdigit():
 
 #    numero_float = float(numero_str)

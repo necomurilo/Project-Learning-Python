@@ -23,7 +23,3 @@ if carro_multado_radar_1:
 
 if carro_multado_radar_1 and vel_carro_passou_radar_1:
     print('O carro foi multado no radar 1')
-
-
-
-
