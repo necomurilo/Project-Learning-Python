@@ -1,4 +1,5 @@
 """ Calculadora com while """
+
 # while True:
 #     sair = input('Quer sair? [s]im: ')
 #     sair = sair.lower() # converte para minusculo
@@ -10,8 +11,8 @@
 
 while True:
     numero_1 = input('Digite um número: ')
-    numero_2 = input('Digite um número: ')
     operador = input('digite o operador (+-/*) ')
+    numero_2 = input('Digite um número: ')
 
     numeros_validos = None
     num_1_float = 0
