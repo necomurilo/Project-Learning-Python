@@ -3,7 +3,6 @@
 
 # ... ou pass (quando a pessoa não quer escrever o código)
 
-
 condicao = False # True ou False
 
 if condicao:
@@ -22,8 +21,8 @@ if 10 == 10:
 # if / elif      / else
 # se / se não se / se não
 
-condicao1 = True # ele vai executar paenas a primeira True, o resto ele vai pular.
-condicao2 = True
+condicao1 = False # ele vai executar paenas a primeira True, o resto ele vai pular.
+condicao2 = False
 condicao3 = True
 condicao4 = True
 
