@@ -1,5 +1,5 @@
 #       012345678910
-nome = 'Murilo Neco' # Interáveis
+nome = 'Celice Keifu' # Interáveis
 #       109876543210
 #tamanho_nome = len(nome)
 indice = 0

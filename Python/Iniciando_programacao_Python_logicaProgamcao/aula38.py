@@ -4,8 +4,9 @@ while (enquanto)
 Executa uma ação enquanto uma condição for verdadeira
 Loop infinito -> Quando um código não tem fim
 """
-qtd_linhas = 5
-qtd_colunas = 5
+# Entendimento complexo
+qtd_linhas = 6
+qtd_colunas = 6
 
 linha = 1
 while linha <= qtd_linhas:
