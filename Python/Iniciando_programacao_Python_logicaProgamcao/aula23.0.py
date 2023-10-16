@@ -4,6 +4,6 @@
 # not False = True
 
 #senha - input('Senha: ')
-# note serve para inverter
+# not serve para inverter
 print(not True) #false
 print(not False) #true
