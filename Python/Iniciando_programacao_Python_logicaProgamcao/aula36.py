@@ -3,9 +3,5 @@ Operadores de atribuição
 =  +=  -=  *=  /=  //=  **=  %=
 """
 contador = 2
-
-
-###
-
-contador **= 10
+contador **= 10 # 2^(10)
 print(contador)

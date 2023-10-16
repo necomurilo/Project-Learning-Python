@@ -5,9 +5,9 @@ is e is not = e ou não é (tipo, valor, identidade)
 id = identidade
 """
 
+# Assunto mais avançado, isso foi apenas uma introdução.
 
 """
-Assunto mais avançado, isso foi apenas uma introdução.
 v1 e v2 tem o mesmo valor, qualquer modificaçao torna isso falso
 v1 = 'a'
 v2 = 'a'
@@ -15,8 +15,7 @@ print(id(v1))
 print(id(v2))
 """
 
-
-condicao = True
+condicao = False
 passou_no_if = None
 
 if condicao:
