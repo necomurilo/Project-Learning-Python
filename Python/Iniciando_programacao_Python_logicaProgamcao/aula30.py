@@ -14,7 +14,6 @@ vel_carro_passou_radar_1 = velocidade > RADAR_1
 carro_multado_radar_1 =  local_carro >= (LOCAL_1 - RADAR_RANGE) and local_carro <= (LOCAL_1 + RADAR_RANGE)
 carro_multado_radar_1 = vel_carro_passou_radar_1 and vel_carro_passou_radar_1
 
-
 if vel_carro_passou_radar_1:
     print('Velocidade carro passou do radar 1')
 
