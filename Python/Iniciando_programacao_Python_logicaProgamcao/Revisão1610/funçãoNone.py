@@ -1,3 +1,4 @@
+# cod None IA
 def minha_funcao():
     print("Olá, mundo!")
 
