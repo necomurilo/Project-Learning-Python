@@ -16,3 +16,5 @@ if numero > 1:
         print('Número menor que 2')
 else:
     print('Número menor que 1')
+
+# Compare qual número é menor
