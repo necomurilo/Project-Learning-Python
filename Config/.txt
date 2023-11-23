@@ -1,0 +1,3 @@
+Set-ExecutionPolicy AllSigned -Force
+
+.\venv\Scripts\activate
