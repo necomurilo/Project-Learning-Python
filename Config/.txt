@@ -3,3 +3,5 @@ Set-ExecutionPolicy AllSigned -Force
 .\venv\Scripts\activate
 
 Reiniciar
+
+Feliz 2024
