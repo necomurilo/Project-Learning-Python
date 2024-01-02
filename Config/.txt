@@ -6,3 +6,4 @@ Reiniciar
 
 Feliz 2024!!!
 Este ano, vou programar todos os dias!
+Utilizarei Linux Ubuntu.
