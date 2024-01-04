@@ -1,3 +1,4 @@
+modo administrador
 Set-ExecutionPolicy AllSigned -Force
     serve liberar controle sobre o terminal
 .\venv\Scripts\activate
