@@ -3,7 +3,7 @@
 print(123) # Na frente (comentar)
 # Evitar colocar em baixo (na frente da # nada será exibido ou executado)
 
-print(Asuka - Unit00)
+print(Asuka | Unit-00)
 """
 Não é comentário, o python sempre lê, mas permite criar linhas.  (DocString) 
 """
