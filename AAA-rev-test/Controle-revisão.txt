@@ -20,7 +20,7 @@ Controle de revisão:
 |                 |   19:00 - 20:00   |   Jantar (1 hora)                  |
 |                 |   20:00 - 21:30   |   Estudo                           |
 |-----------------|-------------------|-----------------------------------|
-|   Segunda a Sexta|   6:00 - 7:30     |   Estudo matinal                   |
+|  Segunda a Sexta|   6:00 - 7:30     |   Estudo matinal                   |
 |                 |   7:30 - 8:00     |   Café da manhã e preparação para o trabalho (30 minutos) |
 |                 |   11:00 - 12:30   |   Estudo após o trabalho           |
 |                 |   12:30 - 13:30   |   Almoço (1 hora)                  |
